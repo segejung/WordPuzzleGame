@@ -1,14 +1,14 @@
-# Use Case Model
+# User Journey
 
 **Author**: Team112
 **Version**: 1.0
 **Date**: Feb 28 2020
 
-## 1 Use Case Diagram
+## 1 User Journey Diagram
 
 ![Use Case Diagram](../images/UseCaseDiagram.png)
 
-## 2 Use Case Descriptions
+## 2 User Stories
 
 1. Adjust Game Settings
     - *Requirements:* This use case must allow the player to be able to adjust the game settings which include adjusting the minutes of the game, the size of the board, and the weights of each letter. 
